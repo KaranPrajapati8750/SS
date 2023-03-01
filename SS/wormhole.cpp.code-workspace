@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"code-runner.runInTerminal": true,
+		"files.associations": {
+			"ostream": "cpp",
+			"array": "cpp",
+			"string": "cpp"
+		}
+	}
+}
